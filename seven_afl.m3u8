@@ -1,30 +1,28 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
-#EXTINF:-1 channel-id="mjh-seven-ade" tvg-id="mjh-seven-ade" tvg-logo="https://i.mjh.nz/.images/seven-ade.png" tvg-chno="7"  group-title="Seven AFL", 7 Adelaide
+#EXTINF:-1 channel-id="mjh-seven-ade" tvg-id="mjh-seven-ade" tvg-logo="https://i.mjh.nz/.images/seven-ade.png"  group-title="Seven AFL", 7 Adelaide
 https://i.mjh.nz/.r/seven-ade.m3u8
-#EXTINF:-1 channel-id="mjh-7mate-ade" tvg-id="mjh-7mate-ade" tvg-logo="https://i.mjh.nz/.images/7mate-ade.png" tvg-chno="74"  group-title="Seven AFL", 7mate Adelaide
+#EXTINF:-1 channel-id="mjh-7mate-ade" tvg-id="mjh-7mate-ade" tvg-logo="https://i.mjh.nz/.images/7mate-ade.png"  group-title="Seven AFL", 7mate Adelaide
 https://i.mjh.nz/.r/7mate-ade.m3u8
-#EXTINF:-1 channel-id="mjh-7mate-per" tvg-id="mjh-7mate-per" tvg-logo="https://i.mjh.nz/.images/7mate-per.png" tvg-chno="74"  group-title="Seven AFL", 7mate Perth
-https://i.mjh.nz/.r/7mate-per.m3u8
-#EXTINF:-1 channel-id="mjh-seven-per" tvg-id="mjh-seven-per" tvg-logo="https://i.mjh.nz/.images/seven-per.png" tvg-chno="7"  group-title="Seven AFL", 7 Perth
+#EXTINF:-1 channel-id="mjh-seven-per" tvg-id="mjh-seven-per" tvg-logo="https://i.mjh.nz/.images/seven-per.png"  group-title="Seven AFL", 7 Perth
 https://i.mjh.nz/.r/seven-per.m3u8
-#EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" tvg-chno="7"  group-title="Seven AFL", 7 Brisbane
+#EXTINF:-1 channel-id="mjh-7mate-per" tvg-id="mjh-7mate-per" tvg-logo="https://i.mjh.nz/.images/7mate-per.png"  group-title="Seven AFL", 7mate Perth
+https://i.mjh.nz/.r/7mate-per.m3u8
+#EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/seven-bri.png"  group-title="Seven AFL", 7 Brisbane
 https://i.mjh.nz/.r/seven-bri.m3u8
-#EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/7mate-bri.png" tvg-chno="74"  group-title="Seven AFL", 7mate Brisbane
+#EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/7mate-bri.png"  group-title="Seven AFL", 7mate Brisbane
 https://i.mjh.nz/.r/7mate-bri.m3u8
-#EXTINF:-1 channel-id="mjh-7mate-syd" tvg-id="mjh-7mate-syd" tvg-logo="https://i.mjh.nz/.images/7mate-syd.png" tvg-chno="74"  group-title="Seven AFL", 7mate Sydney
-https://i.mjh.nz/.r/7mate-syd.m3u8
-#EXTINF:-1 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-logo="https://i.mjh.nz/.images/seven-syd.png" tvg-chno="7"  group-title="Seven AFL", 7 Sydney
+#EXTINF:-1 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-logo="https://i.mjh.nz/.images/seven-syd.png"  group-title="Seven AFL", 7 Sydney
 https://i.mjh.nz/.r/seven-syd.m3u8
-#EXTINF:-1 channel-id="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-logo="https://i.mjh.nz/.images/7mate-mel.png" tvg-chno="74"  group-title="Seven AFL", 7mate Melbourne
-https://i.mjh.nz/.r/7mate-mel.m3u8
-#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/seven-mel.png" tvg-chno="7"  group-title="Seven AFL", 7 Melbourne
+#EXTINF:-1 channel-id="mjh-7mate-syd" tvg-id="mjh-7mate-syd" tvg-logo="https://i.mjh.nz/.images/7mate-syd.png"  group-title="Seven AFL", 7mate Sydney
+https://i.mjh.nz/.r/7mate-syd.m3u8
+#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/seven-mel.png"  group-title="Seven AFL", 7 Melbourne
 https://i.mjh.nz/.r/seven-mel.m3u8
+#EXTINF:-1 channel-id="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-logo="https://i.mjh.nz/.images/7mate-mel.png"  group-title="Seven AFL", 7mate Melbourne
+https://i.mjh.nz/.r/7mate-mel.m3u8
 #EXTINF:-1 channel-id="mjh-seven-cns" tvg-id="mjh-seven-cns" tvg-logo="https://i.mjh.nz/.images/seven-cns.png"  group-title="Seven AFL", 7 Cairns
 https://i.mjh.nz/.r/seven-cns.m3u8
 #EXTINF:-1 channel-id="mjh-seven-mky" tvg-id="mjh-seven-mky" tvg-logo="https://i.mjh.nz/.images/seven-mky.png"  group-title="Seven AFL", 7 Mackay
 https://i.mjh.nz/.r/seven-mky.m3u8
-#EXTINF:-1 channel-id="mjh-7mate-regional" tvg-id="mjh-7mate-regional" tvg-logo="https://i.mjh.nz/.images/7mate-cns.png"  group-title="Seven AFL", 7mate Regional
-https://i.mjh.nz/.r/7mate-regional.m3u8
 #EXTINF:-1 channel-id="mjh-seven-rky" tvg-id="mjh-seven-rky" tvg-logo="https://i.mjh.nz/.images/seven-rky.png"  group-title="Seven AFL", 7 Rockhampton
 https://i.mjh.nz/.r/seven-rky.m3u8
 #EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/seven-ssc.png"  group-title="Seven AFL", 7 Sunshine Coast
@@ -35,3 +33,5 @@ https://i.mjh.nz/.r/seven-twb.m3u8
 https://i.mjh.nz/.r/seven-tsv.m3u8
 #EXTINF:-1 channel-id="mjh-seven-wby" tvg-id="mjh-seven-wby" tvg-logo="https://i.mjh.nz/.images/seven-wby.png"  group-title="Seven AFL", 7 Wide Bay
 https://i.mjh.nz/.r/seven-wby.m3u8
+#EXTINF:-1 channel-id="mjh-7mate-regional" tvg-id="mjh-7mate-regional" tvg-logo="https://i.mjh.nz/.images/7mate-cns.png"  group-title="Seven AFL", 7mate Regional
+https://i.mjh.nz/.r/7mate-regional.m3u8
