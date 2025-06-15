@@ -52,8 +52,8 @@ while IFS= read -r line; do
       mjh-seven-wby)      NAME="7 Wide Bay";          CITY="wby";;
       *) continue;;
     esac
-    # strip old group-title, add “Seven AFL”
-    NO_G=$(sed -E 's/ *group-title="[^"]*"//g' <<<"$EXT")
+    # strip old group-title and tvg-chno, add “Seven AFL”
+    NO_G=$(sed -E 's/ *(group-title|tvg-chno)="[^"]*"//g' <<<"$EXT")
     PREFIX=$(cut -d',' -f1 <<<"$NO_G")
     NEW_EXT="$PREFIX group-title=\"Seven AFL\", $NAME"
     # sort index
